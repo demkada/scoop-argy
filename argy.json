@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/demkada/argy-code/releases/download/v1.0.1/argy-windows-x64.zip",
-      "hash": "f4a1d8f9acaa2e5a60c1ce52b23ad4fc9950f52f10c7d730c1fbc3764e3ee68d"
+      "hash": "7431efd3d6ff446a2ff321cc87d62e03649726faab74c85f5f9503637a5bc9e8"
     }
   },
   "bin": "argy.exe",
