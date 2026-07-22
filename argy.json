@@ -1,12 +1,12 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "The AI coding agent built for the terminal",
   "homepage": "https://github.com/demkada/argy-code",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/demkada/argy-code/releases/download/v2.0.1/argy-windows-x64.zip",
-      "hash": "0eff7a5611e043ace557643df631cb19380b325ab05355fd32418280cd8ea66f"
+      "url": "https://github.com/demkada/argy-code/releases/download/v2.0.2/argy-windows-x64.zip",
+      "hash": "2705e7dc706acb1ec74795182ba79f4f03a12f55ca8ec59e0b642a00e7624fb7"
     }
   },
   "bin": "argy.exe",
